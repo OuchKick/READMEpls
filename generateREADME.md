@@ -1,6 +1,9 @@
-# asd ![badge](https://img.shields.io/badge/license-ISC-yellow.svg)
+# Test README ![badge](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-  asd
+  This is a test of the operation of the README Generator.
+
+
+  <br>
 
   ## Table of Contents:
   * [Installation](#installation)
@@ -10,22 +13,32 @@
   * [Contributing](#contributing)
   * [Questions](#questions)
 
+<br>
+
 ## Install
-To install required dependencies, open terminal and run: asd
+To install required dependencies, open terminal and run:
+<br>
+
+npm install
 
 ### Usage
-asd
+<br>
+
+This is a test
 
 ### License
-[Link](https://opensource.org/licenses/ISC)
+[Link](https://opensource.org/licenses/MIT)
 
 ### Tests
-To run tests, open terminal and run: asd
+To run tests, open terminal and run: 
+<br>
+
+npm test
 
 ### Contributing
-asd
+This is a test
 
 ## Questions
-Any questions for me? Message me on [GitHub](https://github.com/asd) or by email @ asd
+Any questions for me? Message me on [GitHub](https://github.com/Test) or by email @ Test@123.com
 
 

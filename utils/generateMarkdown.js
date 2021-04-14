@@ -5,6 +5,9 @@ function generateMarkdown(answers) {
 
   ${answers.description}
 
+
+  <br>
+
   ## Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
@@ -13,17 +16,27 @@ function generateMarkdown(answers) {
   * [Contributing](#contributing)
   * [Questions](#questions)
 
+<br>
+
 ## Install
-To install required dependencies, open terminal and run: ${answers.installation}
+To install required dependencies, open terminal and run:
+<br>
+
+${answers.installation}
 
 ### Usage
+<br>
+
 ${answers.usage}
 
 ### License
 [Link](https://opensource.org/licenses/${answers.license})
 
 ### Tests
-To run tests, open terminal and run: ${answers.tests}
+To run tests, open terminal and run: 
+<br>
+
+${answers.tests}
 
 ### Contributing
 ${answers.contributing}
