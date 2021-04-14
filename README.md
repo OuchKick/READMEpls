@@ -46,6 +46,6 @@ To run tests, open terminal and run: <br>
 Please message me on GitHub before any major requests.
 
 ## Questions
-Any questions for me? Message me on [GitHub](https://github.com/asd) or by email @ adamreedb@gmail.com
+Any questions for me? Message me on [GitHub](https://github.com/OuchKick) or by email @ adamreedb@gmail.com
 
 
