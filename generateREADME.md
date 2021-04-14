@@ -1,6 +1,6 @@
 # Test README ![badge](https://img.shields.io/badge/license-MIT-yellow.svg)
 
-  This is a test of the operation of the README Generator.
+  This is a test of the README Generator to see if it functions correctly.
 
 
   <br>
@@ -24,7 +24,7 @@ npm install
 ### Usage
 <br>
 
-This is a test
+This is a test.
 
 ### License
 [Link](https://opensource.org/licenses/MIT)
@@ -36,9 +36,9 @@ To run tests, open terminal and run:
 npm test
 
 ### Contributing
-This is a test
+This is a test.
 
 ## Questions
-Any questions for me? Message me on [GitHub](https://github.com/Test) or by email @ Test@123.com
+Any questions for me? Message me on [GitHub](https://github.com/TestMcGee) or by email @ Test@123.com
 
 
