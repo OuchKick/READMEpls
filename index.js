@@ -53,7 +53,7 @@ return inquirer.prompt([
         type: 'list',
         name: 'license',
         message: "Which license would you like to use for your project?",
-        choices: ['MIT','BSD 3-Clause','APACHE 2.0', 'GPL 3.0', 'None at all']
+        choices: ['MIT','ISC','APACHE2.0', 'None at all']
     },
     {
         type: 'input',
@@ -82,8 +82,9 @@ return inquirer.prompt([
 async function init () {
     try {
         const answers = await questionsUser();
+        console.log(answers);
         const generateRead = generateMarkdown(answers);
-        await writeFileAsync('README.md', generateRead);
+        await writeFileAsync('generateREADME.md', generateRead);
         console.log('Completed!');
     }   catch(err) {
         console.log(err);
@@ -91,7 +92,7 @@ async function init () {
   }
         
     
-// // TODO: Create a function to initialize app
+
 
 
 // // Function call to initialize app
@@ -101,12 +102,3 @@ init();
 
 
 
-// Title
-// Description
-// Table of Contents - When you click on the titles in the Table of contents, taken to section 
-// Installation
-// Usage
-// License
-// Contributing
-// Tests
-// Questions - Github Username and GitHub Profile Link / Email Address and Instructions on Contact

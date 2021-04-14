@@ -1,4 +1,4 @@
-# asd ![badge](https://img.shields.io/badge/license-APACHE2.0-yellow.svg)
+# asd ![badge](https://img.shields.io/badge/license-ISC-yellow.svg)
 
   asd
 
@@ -17,7 +17,7 @@ To install required dependencies, open terminal and run: asd
 asd
 
 ### License
-[Link](https://opensource.org/licenses/APACHE2.0)
+[Link](https://opensource.org/licenses/ISC)
 
 ### Tests
 To run tests, open terminal and run: asd
