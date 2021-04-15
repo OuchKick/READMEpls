@@ -30,7 +30,7 @@
 Inside of the "package.json" file there are dependencies there that will need to be installed.
 <br>Use the command:
 
-```npm install```
+```npm install / npm i inquirer```
 
 ## Usage
 While using this generator, be cautious of overwriting previously generated README files.<br> Make sure to save specific README files that you would like to keep and change the name of the newly saved file.
